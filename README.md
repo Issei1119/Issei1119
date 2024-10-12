@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Issei1119
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learing java
+- 🌱 I’m currently learning java
 - 💥 I'm learning new skills everyday
 
 <!---
